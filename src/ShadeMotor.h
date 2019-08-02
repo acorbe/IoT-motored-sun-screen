@@ -21,6 +21,7 @@ public:
   {
     this->current_action = ACTION_STEADY;
     this->until_time = -1;
+    
   }
   
   int beat(){
